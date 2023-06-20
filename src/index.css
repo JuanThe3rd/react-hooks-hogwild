@@ -140,6 +140,14 @@ ul {
   clear: both;
 }
 
+.img-adjust {
+  max-width: 40rem;
+  max-height: 20rem;
+}
+
+.hidden {
+  display: none;
+}
 
 @keyframes App-logo-spin {
   from {
